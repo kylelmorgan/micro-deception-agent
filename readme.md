@@ -30,7 +30,7 @@ Tested on:
 ## Installation
 
 1. Clone this repository:
-https://github.com/########/micro-deception-agent.git
+https://github.com/kylelmorgan/micro-deception-agent.git
 
 
 2. Install dependencies:
